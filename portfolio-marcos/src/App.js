@@ -1,5 +1,3 @@
-// src/App.js
-
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
@@ -8,8 +6,11 @@ import BlogPage from './pages/BlogPage';
 import PostPage from './pages/PostPage';
 import Footer from './components/Footer';
 import './App.css';
+import { Analytics } from "@vercel/analytics/react"
+
 
 function App() {
+  
   return (
     <Router>
       <div className="site-container">
@@ -23,6 +24,8 @@ function App() {
         </main>
         <Footer />
       </div>
+
+      <Analytics />
     </Router>
   );
 }
