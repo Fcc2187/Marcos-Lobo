@@ -36,8 +36,8 @@ O design foi inspirado na identidade visual do projeto **Improváveis do Cartola
 ## 👨‍💻 Desenvolvedor
 
 -   **Felipe Caminha**
--   **GitHub:** [https://github.com/seu-usuario-do-github](https://github.com/Fcc2187/)
--   **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/felipe-caminha-aa762123a/)
+-   **GitHub:** [https://github.com/Fcc2187](https://github.com/Fcc2187/)
+-   **LinkedIn:** [https://www.linkedin.com/in/felipe-caminha-aa762123a/](https://www.linkedin.com/in/felipe-caminha-aa762123a/)
 -   **Email:** caminha2103@gmail.com
 
 ---
