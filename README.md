@@ -1,7 +1,5 @@
 # Portfólio de Análise de Dados para Marcos Lobo
 
-**Desenvolvido por: [Felipe Caminha](https://github.com/Fcc2187)**
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a0a87e5a-0f4a-4c72-8f28-0d1be856d8d4" alt="Logo do Projeto Improváveis do Cartola" width="300">
 </p>
@@ -35,47 +33,12 @@ O design foi inspirado na identidade visual do projeto **Improváveis do Cartola
 
 ---
 
-## ⚙️ Como Executar o Projeto Localmente
-
-Siga os passos abaixo para rodar o projeto em sua máquina.
-
-**Pré-requisitos:**
-* [Node.js](https://nodejs.org/en/) (versão 14 ou superior)
-* [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
-
-**Passos:**
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario-do-github/nome-do-repositorio.git](https://github.com/seu-usuario-do-github/nome-do-repositorio.git)
-    ```
-
-2.  **Navegue até a pasta do projeto:**
-    ```bash
-    cd nome-da-pasta-do-projeto
-    ```
-
-3.  **Instale as dependências:**
-    ```bash
-    npm install
-    ```
-
-4.  **Inicie o servidor de desenvolvimento:**
-    ```bash
-    npm start
-    ```
-
-5.  **Abra seu navegador:**
-    Acesse `http://localhost:3000` para ver a aplicação em execução.
-
----
-
 ## 👨‍💻 Desenvolvedor
 
 -   **Felipe Caminha**
--   **GitHub:** [https://github.com/seu-usuario-do-github](https://github.com/seu-usuario-do-github)
--   **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/seu-linkedin/)
--   **Email:** seu.email@exemplo.com
+-   **GitHub:** [https://github.com/seu-usuario-do-github](https://github.com/Fcc2187/)
+-   **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/felipe-caminha-aa762123a/)
+-   **Email:** caminha2103@gmail.com
 
 ---
 
