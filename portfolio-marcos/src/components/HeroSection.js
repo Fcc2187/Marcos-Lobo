@@ -43,7 +43,7 @@ function HeroSection() {
       <Title>Transformando Dados em Estratégias</Title>
       <Subtitle>
         Olá, eu sou Marcos Lobo. Analista de Dados com foco em Business Intelligence e Análise Esportiva.
-        Ex-fundador e analista principal no projeto <strong>Improváveis do Cartola</strong>, onde criei conteúdo e análises para mais de 50.000 usuários.
+        Ex-fundador e analista principal no projeto <strong>Improváveis do Cartola</strong>, onde criei conteúdo e análises para mais de 10.000 usuários.
       </Subtitle>
     </HeroContainer>
   );

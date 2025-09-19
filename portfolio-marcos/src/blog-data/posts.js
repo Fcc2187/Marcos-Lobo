@@ -1,43 +1,37 @@
-// Os slugs devem ser únicos
 export const posts = [
   {
-    slug: 'analise-de-scouts-decisivos-no-cartola',
-    title: 'Scouts Decisivos: Como a análise de dados brutos pode prever o sucesso no Cartola FC',
-    category: 'Análise Esportiva',
-    date: '15 de Setembro de 2025',
+    slug: 'o-jogo-sem-bola-futebol-moderno',
+    title: 'O JOGO SEM BOLA🚫⚽',
+    subtitle: 'A importância do jogo sem bola no futebol moderno',
+    category: 'Análise Tática',
+    date: '19 de Setembro de 2025',
     author: 'Marcos Lobo',
     content: `
-      <p>A análise de scouts no futebol fantasy vai muito além de simplesmente olhar os números finais. É preciso mergulhar nos dados brutos para encontrar os verdadeiros indicadores de performance, os chamados "scouts silenciosos".</p>
-      <h2>A importância dos Desarmes (DS) vs. Faltas Cometidas (FC)</h2>
-      <p>Um erro comum é valorizar apenas o número de desarmes. No entanto, a relação DS/FC é um indicador muito mais poderoso da eficiência de um defensor. Jogadores com alta taxa de desarmes e baixo número de faltas não só pontuam mais, como também evitam cartões que negativam a pontuação. Uma análise de regressão simples pode mostrar a correlação direta entre um bom ratio DS/FC e a média de pontos de um zagueiro ao longo do campeonato.</p>
-      <h2>Finalizações para Fora (FF): Um indicador de volume ofensivo</h2>
-      <p>Muitos ignoram a Finalização para Fora (FF), pois ela não gera pontos diretos. Contudo, este é um dos scouts mais importantes para prever gols e assistências futuras. Um atacante com alto volume de FF está constantemente se posicionando em zonas de perigo. A conversão de chutes em gols pode variar, mas a oportunidade gerada é um dado consistente. Cruzar o dado de FF com a posição média do jogador em campo (mapa de calor) pode revelar atletas prestes a ter uma rodada de "explosão" de pontos.</p>
+      <p>No futebol moderno, não há mais espaço apenas para jogadores com refino técnico. O jogo sem bola se tornou essencial em equipes de alto rendimento.</p>
+      <p>Um estudo recente publicado pelo European Journal of Sport Science indica que cada time tem, em média, 107 posses de bola por jogo, com duração média de 16 segundos cada, totalizando cerca de 29 minutos de posse por time em uma partida de 90 minutos.</p>
+      <p>Trazendo isso para os protagonistas, os jogadores, temos uma média de 1 a 2 minutos de posse por atleta. Ou seja, mais de 88,33% do tempo em campo é de jogo sem bola.</p>
+      <h2>Christian: O exemplo da eficiência tática</h2>
+      <p>Falando em 88, Christian, do Cruzeiro, comandado por Leonardo Jardim, representa bem essa nova maneira de enxergar o jogo. O jovem polivalente e disciplinado taticamente, é uma peça vital no esquema e no sucesso do time em 2025.</p>
+      <p>Um extremo com números defensivos acima da média chama atenção. Não é o habitual, nem o esperado por torcedores ou analistas. Mas acostumem-se: o futebol mudou.</p>
+      <p>Hoje, vencer cada duelo, cada metro, é vencer a partida. Christian faz dos seus 88 minutos sem a bola algo crucial para o coletivo. O talento ainda importa, mas o trabalho que poucos enxergam é o que sustenta o alto nível no longo prazo.</p>
     `
   },
   {
-    slug: 'mito-da-formacao-tatica-nos-dados',
-    title: 'O Mito da Formação Tática: Uma análise baseada em dados sobre o impacto real dos esquemas táticos',
-    category: 'Análise Esportiva',
-    date: '10 de Setembro de 2025',
+    slug: 'maturidade-no-futebol-jose-lopez',
+    title: 'O FUTEBOL E SUA MATURIDADE ⏳',
+    subtitle: 'O caso José "Flaco" López',
+    category: 'Desenvolvimento de Atletas',
+    date: '19 de Setembro de 2025',
     author: 'Marcos Lobo',
     content: `
-      <p>No mundo do futebol, discute-se à exaustão sobre as vantagens do 4-3-3 sobre o 3-5-2. Mas qual o impacto real disso em dados mensuráveis? Nesta análise, investigamos os números de duas temporadas do Brasileirão para entender as correlações.</p>
-      <h2>Gols Esperados (xG) por formação</h2>
-      <p>Analisando o xG (Expected Goals) gerado e sofrido, notamos que a formação tática, por si só, tem uma correlação mais fraca com o sucesso do que a qualidade individual e o entrosamento dos jogadores. Times que alternam entre 3 e 4 defensores, por exemplo, não apresentaram variações estatisticamente significantes no xG sofrido, sugerindo que a execução e o perfil dos atletas são mais importantes que o desenho no papel.</p>
-    `
-  },
-  {
-    slug: '3-dashboards-essenciais-para-ecommerce',
-    title: 'Business Intelligence no E-commerce: 3 dashboards essenciais que todo gestor deveria usar',
-    category: 'Business Intelligence',
-    date: '05 de Setembro de 2025',
-    author: 'Marcos Lobo',
-    content: `
-      <p>Gerenciar um e-commerce sem dados é como navegar sem bússola. A seguir, apresento três modelos de dashboards em Power BI/Tableau que são cruciais para qualquer operação online.</p>
-      <h2>1. Dashboard de Saúde da Operação (Visão Diária)</h2>
-      <p>KPIs essenciais: Vendas por hora, taxa de conversão, ticket médio, carrinhos abandonados e principais produtos vendidos. Este painel permite identificar rapidamente anomalias na operação.</p>
-      <h2>2. Dashboard de Análise de Cohort (Visão Mensal)</h2>
-      <p>Este dashboard agrupa clientes por mês de primeira compra e acompanha seu comportamento ao longo do tempo. Ele é fundamental para entender a retenção e o LTV (Lifetime Value), mostrando se suas estratégias de fidelização estão funcionando.</p>
+      <p>No mundo esportivo - especialmente no futebol - a maturação de um jogador exige tempo e paciência. Somos um país rico em jovens promessas latinas, que muitas vezes migram cedo, carregando em si responsabilidades exageradas.</p>
+      <p>Enxergar o potencial de um jovem não é o desafio principal. O verdadeiro desafio está em preparar, lapidar e desenvolver esse potencial até que ele se transforme em um atleta de alto desempenho. Abel Ferreira soube conduzir esse processo com José López, o "Flaco".</p>
+      <h2>O processo de adaptação de "Flaco" López</h2>
+      <p>O argentino chegou ao Brasil em 2022, cercado de expectativa pelas cifras investidas e pela carência do torcedor passional, por um “salvador”. Mas o processo não foi imediato.</p>
+      <p>Em entrevista recente, João Martins, auxiliar de Abel, revelou as dificuldades de adaptação do argentino: sono desregulado, alimentação desbalanceada e até problemas de concentração/atenção.</p>
+      <p>Após um período de instabilidade, 2025 se tornou seu ano de afirmação. Adaptado e atuando em nova função, soma 17 gols e 3 assistências na temporada.</p>
+      <p>Qualidade ele sempre teve. Faltava o que muitos ignoram: tempo, maturação e paciência. Nós, que analisamos o futebol além da emoção, temos a responsabilidade de ajudar o público a compreender o jogo com mais profundidade.</p>
+      <p>O cuidado importa. A conversa importa. E acima de tudo: confiar no produto e no processo.</p>
     `
   }
 ];

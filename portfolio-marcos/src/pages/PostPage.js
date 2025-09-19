@@ -58,6 +58,17 @@ const PostBody = styled.div`
     color: #ffc9a3;
   }
 `;
+const PostSubtitle = styled.h2`
+  font-size: 1.4rem;
+  color: var(--orange); /* Cor laranja, como solicitado */
+  font-weight: 400; /* Deixa a fonte mais leve que a do título */
+  line-height: 1.5;
+  margin-bottom: 15px;
+
+  @media (max-width: 768px) {
+    font-size: 1.2rem;
+  }
+`;
 
 const ErrorMessage = styled.div`
   text-align: center;
@@ -77,6 +88,7 @@ function PostPage() {
     <PostContainer>
       <PostHeader>
         <h1>{post.title}</h1>
+        <PostSubtitle>{post.subtitle}</PostSubtitle>
         <p>Publicado por {post.author} em {post.date}</p>
       </PostHeader>
       <PostBody dangerouslySetInnerHTML={{ __html: post.content }} />

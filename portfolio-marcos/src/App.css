@@ -38,3 +38,13 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
   padding: 40px 20px;
 }
+
+.site-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Garante que o container ocupe no mínimo 100% da altura da tela */
+}
+
+main {
+  flex: 1;
+}
