@@ -2,8 +2,8 @@
 
 **Desenvolvido por: [Felipe Caminha](https://github.com/Fcc2187)**
 
-![Banner do Projeto](https://i.img<img width="866" height="942" alt="BackgroundEraser_20230804_092628971" src="https://github.com/user-attachments/assets/a0a87e5a-0f4a-4c72-8f28-0d1be856d8d4" />
-ur.com/) 
+![Logo do Projeto](https://github.com/user-attachments/assets/a0a87e5a-0f4a-4c72-8f28-0d1be856d8d4)
+
 ## 📝 Descrição
 
 Este projeto é um site de portfólio pessoal, desenvolvido por mim para o analista de dados **Marcos Lobo**. O objetivo foi criar uma plataforma moderna e profissional para que ele pudesse apresentar suas habilidades, projetos e análises detalhadas.
