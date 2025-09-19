@@ -2,7 +2,9 @@
 
 **Desenvolvido por: [Felipe Caminha](https://github.com/Fcc2187)**
 
-![Logo do Projeto](https://github.com/user-attachments/assets/a0a87e5a-0f4a-4c72-8f28-0d1be856d8d4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0a87e5a-0f4a-4c72-8f28-0d1be856d8d4" alt="Logo do Projeto Improváveis do Cartola" width="300">
+</p>
 
 ## 📝 Descrição
 
