@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from 'styled-components';
 import PostCard from '../components/PostCard';
 import { posts } from '../blog-data/posts';

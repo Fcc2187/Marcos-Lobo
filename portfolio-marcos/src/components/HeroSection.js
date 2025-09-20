@@ -1,6 +1,3 @@
-// src/components/HeroSection.js
-
-import React from 'react';
 import styled from 'styled-components';
 
 const HeroContainer = styled.div`
@@ -40,11 +37,13 @@ const Subtitle = styled.p`
 function HeroSection() {
   return (
     <HeroContainer>
-      <Title>Transformando Dados em Estratégias</Title>
-      <Subtitle>
-        Olá, eu sou Marcos Lobo. Analista de Dados com foco em Business Intelligence e Análise Esportiva.
-        Ex-fundador e analista principal no projeto <strong>Improváveis do Cartola</strong>, onde criei conteúdo e análises para mais de 10.000 usuários.
-      </Subtitle>
+      <Title>A Essência do Jogo em Análise</Title>
+    <Subtitle>
+ <Subtitle>
+  Olá, eu sou Marcos Lobo. Analista de futebol apaixonado por traduzir o que acontece em campo em análises táticas e de desempenho.
+  As ideias deste blog nascem da observação prática do jogo, uma abordagem que aprimorei como analista principal no projeto <strong>Improváveis do Cartola</strong>.
+</Subtitle>
+    </Subtitle>
     </HeroContainer>
   );
 }

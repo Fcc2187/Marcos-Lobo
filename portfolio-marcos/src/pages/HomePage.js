@@ -1,6 +1,3 @@
-// src/pages/HomePage.js
-
-import React from 'react';
 import styled from 'styled-components';
 import HeroSection from '../components/HeroSection';
 import PostCard from '../components/PostCard';
