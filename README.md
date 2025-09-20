@@ -33,6 +33,13 @@ O design foi inspirado na identidade visual do projeto **Improváveis do Cartola
 
 ---
 
+## 📦 Deploy
+
+O deploy deste projeto é feito de forma contínua e automatizada através da Vercel. Qualquer push para a branch main no GitHub irá acionar um novo build e atualizar o site no ar.
+
+🔗 Acesse a versão ao vivo em: [https://marcos-lobo.vercel.app/](https://marcos-lobo.vercel.app/)
+
+---
 ## 👨‍💻 Desenvolvedor
 
 -   **Felipe Caminha**
