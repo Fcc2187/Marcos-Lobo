@@ -31,8 +31,10 @@ O design foi inspirado na identidade visual do projeto **Improváveis do Cartola
 -   **[JavaScript (ES6+)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/):** Linguagem base da aplicação.
 -   **[HTML5 & CSS3]:** Estrutura e estilização base.
 
----
+-   **Deployment na Vercel: [https://marcos-lobo.vercel.app/](https://marcos-lobo.vercel.app/)
 
+---
+ 
 ## 👨‍💻 Desenvolvedor
 
 -   **Felipe Caminha**
