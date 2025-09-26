@@ -43,5 +43,25 @@ export const posts = [
       <p>O cuidado importa. A conversa importa. E acima de tudo: confiar no produto e no processo.</p>
     `
   },
-
+  { 
+    slug: 'o-improvavel-mirassol',
+    title: 'O IMPROVÁVEL MIRASSOL 🌞',
+    subtitle: 'A ascensão surpreendente do Mirassol no futebol brasileiro',
+    category: 'Análise de Clubes',
+    date: '26 de Setembro de 2025',
+    author: 'Marcos Lobo',
+    content: `
+      <p>Sim, eu sei que o time do interior paulista era cotado para segurar a laterna do campeonato brasileiro, justamente em seu ano de acesso. Seus inúmeros jogadores que não serviam em outros clubes e por sua falta de tradição o fizeram menosprezado, mas o futebol não é uma matemática exata.</p>
+      <p>O Leão da Alta Araraquarense completa seus 100 anos de história em 2025 e como presente mais que especial ao seu apaixonado torcedor está jogando a elite do campeonato nacional, e muito além disso, superando expectativas.</p>
+      <p>Tudo se iniciou através de Luiz Araújo, jovem promessa da base vendida ao São Paulo, que em 2018 foi vendido pelo tricolor ao Lille-FRA. O time do interior manteve 20% de uma futura venda do atleta que lhe rendeu na época 9 milhões de reais.</p>
+      <p>Do montante, 6,5 milhões foram investidos em seu CT de alta performance e cuidado científico com seus atletas e staff. O espaço conta com 4 campos oficiais, aparelhos de última geração, piscinas, apartamentos para concentração e até mesmo de uma cápsula de flutuação onde os atletas flutuam em uma água morna salina que tem como principais benefícios redução de estresse, alívio de dores e melhorias no sono e bem-estar.</p>
+      <h2>A Força do Coletivo e a Gestão como Diferencial</h2>
+      <p align="center">
+        <img src="/mirassol.jpg" alt="Estrutura e CT do Mirassol Futebol Clube" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
+      </p>
+      <p>O time vem fazendo uma campanha histórica na série mas algo me chama muito atenção: a quantidade de jogadores em final de contrato - são incríveis 15 jogadores com contratos até o final de 2025 entre vínculos definitivos e empréstimos. O veterano lateral-esquerdo Reinaldo é um caso deles, o camisa 6 soma 8 gols e 3 assistências e tem sido o principal destaque despontando até como o melhor da posição no campeonato, o seu contrato se encerra em 31/12/25.</p>
+      <p>O técnico Rafael Guanaes tem parcela crucial no desempenho do time, o paulista da capital tem um jogo muito bem construído apartir do 4-2-3-1 de muita eficiência tática, jogo aproximado e principalmente de DNA ofensivo, o time tem o 2⁰ melhor ataque da competição superando clubes como Palmeiras e Botafogo, figura também entre os times que mais criam grandes chances, sendo o 5⁰ no geral.</p>
+      <p>Acima de tudo, lá atrás, o Mira entendeu que cuidar dos seus atletas e blindar seu staff técnico seria crucial para sonhar e desempenhar dentro de campo. O cuidado com a parte física e mental dos atletas e da comissão fez e faz total diferença, o time da cidade de 65 mil habitantes fez do profissionalismo o seu melhor aliado. O futuro é promissor em terras Mirassolenses.</p>
+    `
+  }
 ];
