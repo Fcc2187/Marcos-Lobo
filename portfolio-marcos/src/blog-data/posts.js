@@ -42,5 +42,6 @@ export const posts = [
       <p>Qualidade ele sempre teve. Faltava o que muitos ignoram: tempo, maturação e paciência. Nós, que analisamos o futebol além da emoção, temos a responsabilidade de ajudar o público a compreender o jogo com mais profundidade.</p>
       <p>O cuidado importa. A conversa importa. E acima de tudo: confiar no produto e no processo.</p>
     `
-  }
+  },
+
 ];
