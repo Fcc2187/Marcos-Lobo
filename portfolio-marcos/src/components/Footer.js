@@ -48,7 +48,7 @@ function Footer() {
     <FooterContainer>
       <ContactInfo>
         <p>Contato: +55 11 95204-0515</p>
-        <p>E-mail: marcoslobofonseca@gmail.com  testes</p>
+        <p>E-mail: marcoslobofonseca@gmail.com</p>
       </ContactInfo>
 
       <SocialLinks>
