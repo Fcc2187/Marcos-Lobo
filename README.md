@@ -1,4 +1,4 @@
-# Portfólio de Análise de Dados para Marcos Lobo
+# Blog de Análises de Futebol para Marcos Lobo
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a0a87e5a-0f4a-4c72-8f28-0d1be856d8d4" alt="Logo do Projeto Improváveis do Cartola" width="300">
@@ -6,7 +6,7 @@
 
 ## 📝 Descrição
 
-Este projeto é um site de portfólio pessoal, desenvolvido por mim para o analista de dados **Marcos Lobo**. O objetivo foi criar uma plataforma moderna e profissional para que ele pudesse apresentar suas habilidades, projetos e análises detalhadas.
+Este projeto é um blog pessoal, desenvolvido por mim para o analista de futebol **Marcos Lobo**. O objetivo foi criar uma plataforma moderna e profissional para que ele pudesse apresentar suas habilidades, projetos e análises detalhadas.
 
 O design foi inspirado na identidade visual do projeto **Improváveis do Cartola**, e a aplicação foi construída do zero utilizando React e tecnologias modernas do ecossistema JavaScript, focando em uma experiência de usuário limpa e em uma estrutura de código organizada e escalável.
 
@@ -51,4 +51,4 @@ O deploy deste projeto é feito de forma contínua e automatizada através da Ve
 
 ## 👤 Cliente
 
--   **Marcos Lobo** - Analista de Dados
+-   **Marcos Lobo** - Analista de Futebol
