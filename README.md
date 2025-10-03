@@ -46,7 +46,6 @@ O deploy deste projeto é feito de forma contínua e automatizada através da Ve
 -   **GitHub:** [https://github.com/Fcc2187](https://github.com/Fcc2187/)
 -   **LinkedIn:** [https://www.linkedin.com/in/felipe-caminha-aa762123a/](https://www.linkedin.com/in/felipe-caminha-aa762123a/)
 -   **Email:** caminha2103@gmail.com
-
 ---
 
 ## 👤 Cliente
