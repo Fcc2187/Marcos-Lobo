@@ -2,6 +2,27 @@
 
 export const posts = [
   {
+    slug: 'a-argentinizacao-no-brasil',
+    title: 'A "ARGENTINIZAÇÃO" NO BRASIL',
+    subtitle: 'A consolidação da escola argentina de treinadores na Série A',
+    category: 'Análise de Mercado',
+    date: '9 de Janeiro de 2026',
+    author: 'Marcos Lobo',
+    content: `
+      <p>Após anos de nomes portugueses reinando em solo nacional, vivemos agora uma era onde 25% de nossos treinadores na Série A são "hermanos".</p>
+      <p>A escola argentina (ATFA), a cada novo ciclo, vem formando grandes profissionais e se consolidando no mercado brasileiro e internacional. Por serem mais rígidos e testados em níveis mais rigorosos, eles vêm ganhando destaque.</p>
+      
+      <p align="center">
+        <img src="/treinadores-argentinos.png" alt="Treinadores Argentinos no Brasil" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
+      </p>
+
+      <p>O estilo argentino ganhou força na América do Sul e na Europa; por ser um trabalho objetivo e direto, consegue elevar o nível profissional e vencer escolas arcaicas. Hoje, temos nomes como Diego Simeone, Lionel Scaloni e Martín Anselmi em evidência. E o que eles possuem em comum? Seriedade - do mais experiente ao mais novo.</p>
+      <p>Hoje, se seu time é comandado por um "hermano", saiba que ele competirá intensamente pelos 90 minutos. São atletas 100% comprometidos taticamente, que jogam conforme instruídos, respeitando a hierarquia e a responsabilidade com o jogo.</p>
+      <p>Nossa metodologia ainda está longe do ideal, e ver o compromisso e a evolução do nosso vizinho deveria criar um sinal de alerta e uma mudança de rota nas escolas brasileiras de profissionais do futebol.</p>
+      <p>Como podemos ver, esse crescimento exponencial não é surpresa. Falta ao treinador brasileiro essa identificação para com seu jogador; na maioria das vezes, ele não consegue extrair a melhor versão do atleta, deixando nossos times aquém do que poderiam desempenhar. O estilo argentino veio para ficar enquanto o brasileiro não quiser "pelear" de verdade por seu espaço.</p>
+    `
+  },
+  {
     slug: 'renome-nao-e-rendimento',
     title: 'RENOME NÃO É RENDIMENTO💡',
     subtitle: 'A armadilha do "ganho midiático" e a falta de paciência com o processo no futebol brasileiro',
@@ -83,5 +104,4 @@ export const posts = [
       <p>Hoje, vencer cada duelo, cada metro, é vencer a partida. Christian faz dos seus 88 minutos sem a bola algo crucial para o coletivo. O talento ainda importa, mas o trabalho que poucos enxergam é o que sustenta o alto nível no longo prazo.</p>
     `
   },
-
 ];
