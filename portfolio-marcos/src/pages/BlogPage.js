@@ -36,6 +36,7 @@ function BlogPage() {
               slug={post.slug}
               title={post.title}
               category={post.category}
+              flagCode={post.flagCode}
             />
           ))}
         </PostGrid>

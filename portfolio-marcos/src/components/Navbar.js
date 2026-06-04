@@ -116,6 +116,9 @@ function Navbar() {
             <StyledNavLink to="/" end onClick={closeMobileMenu}>Início</StyledNavLink>
           </NavItem>
           <NavItem>
+            <StyledNavLink to="/copa2026" onClick={closeMobileMenu}>Copa 2026 🏆</StyledNavLink>
+          </NavItem>
+          <NavItem>
             <StyledNavLink to="/blog" onClick={closeMobileMenu}>Blog de Análises</StyledNavLink>
           </NavItem>
         </NavMenu>

@@ -49,12 +49,26 @@ const ReadMoreLink = styled(Link)`
   display: inline-block;
 `;
 
-function PostCard({ title, category, slug }) {
+function PostCard({ title, category, slug, flagCode }) {
   return (
     <Card>
       <CardContent>
         <Category>{category}</Category>
-        <PostTitle>{title}</PostTitle>
+        <PostTitle style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+          {title}
+          {flagCode && (
+            <img 
+              src={`https://flagcdn.com/w40/${flagCode}.png`} 
+              alt="Bandeira" 
+              style={{ 
+                height: '18px', 
+                borderRadius: '2px', 
+                boxShadow: '0 1px 4px rgba(0,0,0,0.3)',
+                display: 'inline-block'
+              }} 
+            />
+          )}
+        </PostTitle>
         <ReadMoreLink to={`/post/${slug}`}>Ler Análise Completa →</ReadMoreLink>
       </CardContent>
     </Card>

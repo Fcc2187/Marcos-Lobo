@@ -1,6 +1,9 @@
 // src/blog-data/posts.js
+import { copaPosts } from './copa2026';
 
 export const posts = [
+  ...copaPosts,
+
   {
     slug: 'a-argentinizacao-no-brasil',
     title: 'A "ARGENTINIZAÇÃO" NO BRASIL',

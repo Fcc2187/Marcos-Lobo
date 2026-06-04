@@ -85,7 +85,23 @@ function PostPage() {
   return (
     <PostContainer>
       <PostHeader>
-        <h1>{post.title}</h1>
+        <h1>
+          {post.title}
+          {post.flagCode && (
+            <img 
+              src={`https://flagcdn.com/w40/${post.flagCode}.png`} 
+              alt="Bandeira" 
+              style={{ 
+                verticalAlign: 'middle', 
+                marginLeft: '12px', 
+                height: '24px', 
+                borderRadius: '4px',
+                boxShadow: '0 2px 8px rgba(0,0,0,0.3)',
+                marginBottom: '4px'
+              }} 
+            />
+          )}
+        </h1>
         <PostSubtitle>{post.subtitle}</PostSubtitle>
         <p>Publicado por {post.author} em {post.date}</p>
       </PostHeader>
