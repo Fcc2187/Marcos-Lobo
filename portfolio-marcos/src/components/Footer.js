@@ -52,16 +52,13 @@ function Footer() {
       </ContactInfo>
 
       <SocialLinks>
-        <a href="https://www.instagram.com/improvcartola/" target="_blank" rel="noopener noreferrer" aria-label="Instagram dos Improváveis">
-          <FaInstagram />
-        </a>
         <a href="https://x.com/improvcartola" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter) dos Improváveis">
           <FaTwitter />
         </a>
       </SocialLinks>
 
       <AnalysisSchedule>
-        Análises todas as sextas-feiras, às 20:00.
+        Análises Semanais
       </AnalysisSchedule>
 
       <Copyright>
