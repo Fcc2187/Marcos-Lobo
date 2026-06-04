@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { FaInstagram, FaTwitter } from 'react-icons/fa';
+import { FaTwitter } from 'react-icons/fa';
 
 const FooterContainer = styled.footer`
   background: var(--dark-grey);
