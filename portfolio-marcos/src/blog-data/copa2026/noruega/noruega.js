@@ -1,3 +1,5 @@
+import { flags } from '../flags.js';
+
 export const noruegaPost = {
   slug: 'copa-2026-noruega-analise',
   title: 'COPA 2026: NORUEGA',
@@ -37,16 +39,16 @@ export const noruegaPost = {
       </ul>
     </div>
 
-    <p>Mesmo em um grupo que contava com a Itália <img src="https://flagcdn.com/w20/it.png" alt="🇮🇹" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">, a Noruega não tomou conhecimento: aplicou duas vitórias indiscutíveis. Uma por 3-0 em Oslo e outra em pleno San Siro por 1-4! ✨</p>
-    <p>A seleção nórdica também contou com a maior goleada das eliminatórias ao aplicar um sonoro 11-1 diante da Moldávia! <img src="https://flagcdn.com/w20/md.png" alt="🇲🇩" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;"></p>
+    <p>Mesmo em um grupo que contava com a Itália ${flags.italia}, a Noruega não tomou conhecimento: aplicou duas vitórias indiscutíveis. Uma por 3-0 em Oslo e outra em pleno San Siro por 1-4! ✨</p>
+    <p>A seleção nórdica também contou com a maior goleada das eliminatórias ao aplicar um sonoro 11-1 diante da Moldávia! ${flags.moldavia}</p>
 
-    <h2 style="margin-top: 40px; color: #ffd700; border-bottom: 2px solid #ffd700; padding-bottom: 8px;">⭐ PRINCIPAIS ESTRELAS <img src="https://flagcdn.com/w20/no.png" alt="🇳🇴" style="vertical-align: middle; height: 20px; margin-bottom: 3px; border-radius: 2px;"></h2>
+    <h2 style="margin-top: 40px; color: #ffd700; border-bottom: 2px solid #ffd700; padding-bottom: 8px;">⭐ PRINCIPAIS ESTRELAS ${flags.noruega}</h2>
     <p>Abaixo, detalhamos os principais nomes da seleção e também atletas promissores que podem surpreender na competição. ✍🏻</p>
 
     <!-- RYERSON -->
     <div style="margin: 35px 0; border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 20px; background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
       <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4rem; border-left: 4px solid #ffd700; padding-left: 10px; display: flex; align-items: center; gap: 8px;">
-        RYERSON <img src="https://flagcdn.com/w20/no.png" alt="🇳🇴" style="vertical-align: middle; height: 16px; border-radius: 2px;">
+        RYERSON ${flags.noruega}
       </h3>
       <p align="center">
         <img src="/copa2026/noruega/jogadores/ryerson.jpg" alt="Ryerson" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
@@ -63,7 +65,7 @@ export const noruegaPost = {
     <!-- ODEGAARD -->
     <div style="margin: 35px 0; border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 20px; background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
       <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4rem; border-left: 4px solid #ffd700; padding-left: 10px; display: flex; align-items: center; gap: 8px;">
-        ODEGAARD <img src="https://flagcdn.com/w20/no.png" alt="🇳🇴" style="vertical-align: middle; height: 16px; border-radius: 2px;">
+        ODEGAARD ${flags.noruega}
       </h3>
       <p align="center">
         <img src="/copa2026/noruega/jogadores/odegaard.jpg" alt="Odegaard" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
@@ -80,7 +82,7 @@ export const noruegaPost = {
     <!-- HAALAND -->
     <div style="margin: 35px 0; border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 20px; background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
       <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4rem; border-left: 4px solid #ffd700; padding-left: 10px; display: flex; align-items: center; gap: 8px;">
-        HAALAND <img src="https://flagcdn.com/w20/no.png" alt="🇳🇴" style="vertical-align: middle; height: 16px; border-radius: 2px;">
+        HAALAND ${flags.noruega}
       </h3>
       <p align="center">
         <img src="/copa2026/noruega/jogadores/haaland.jpg" alt="Haaland" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
@@ -98,7 +100,7 @@ export const noruegaPost = {
     <!-- ANTONIO NUSA -->
     <div style="margin: 35px 0; border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 20px; background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
       <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4rem; border-left: 4px solid #ffd700; padding-left: 10px; display: flex; align-items: center; gap: 8px;">
-        ANTONIO NUSA <img src="https://flagcdn.com/w20/no.png" alt="🇳🇴" style="vertical-align: middle; height: 16px; border-radius: 2px;">
+        ANTONIO NUSA ${flags.noruega}
       </h3>
       <p align="center">
         <img src="/copa2026/noruega/jogadores/nusa.jpg" alt="Antonio Nusa" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
@@ -113,7 +115,7 @@ export const noruegaPost = {
     </div>
 
     <p style="margin-top: 30px; font-weight: 500; font-size: 1.15rem; line-height: 1.8;">
-      Acredito que vale muito a pena investir nas peças norueguesas na 1ª rodada, pois farão o confronto contra o adversário teoricamente mais acessível do grupo — que também conta com as fortíssimas seleções de França <img src="https://flagcdn.com/w20/fr.png" alt="🇫🇷" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;"> e Senegal <img src="https://flagcdn.com/w20/sn.png" alt="🇸🇳" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">. Um resultado positivo convincente é essencial diante do Iraque <img src="https://flagcdn.com/w20/iq.png" alt="🇮🇶" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">, e a construção de saldo de gols pode vir a ser o grande diferencial de classificação! Olho neles. <img src="https://flagcdn.com/w20/no.png" alt="🇳🇴" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">
+      Acredito que vale muito a pena investir nas peças norueguesas na 1ª rodada, pois farão o confronto contra o adversário teoricamente mais acessível do grupo — que também conta com as fortíssimas seleções de França ${flags.franca} e Senegal ${flags.senegal}. Um resultado positivo convincente é essencial diante do Iraque ${flags.iraque}, e a construção de saldo de gols pode vir a ser o grande diferencial de classificação! Olho neles. ${flags.noruega}
     </p>
   `
 };

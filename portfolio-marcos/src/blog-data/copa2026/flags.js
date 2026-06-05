@@ -61,4 +61,6 @@ export const flags = {
   haiti: '<img src="https://flagcdn.com/w20/ht.png" alt="🇭🇹" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
   // Outros
   sanMarino: '<img src="https://flagcdn.com/w20/sm.png" alt="🇸🇲" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
+  italia: '<img src="https://flagcdn.com/w20/it.png" alt="🇮🇹" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
+  moldavia: '<img src="https://flagcdn.com/w20/md.png" alt="🇲🇩" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
 };
