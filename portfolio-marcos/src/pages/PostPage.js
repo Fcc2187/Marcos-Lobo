@@ -103,7 +103,9 @@ function PostPage() {
           )}
         </h1>
         <PostSubtitle>{post.subtitle}</PostSubtitle>
-        <p>Publicado por {post.author} em {post.date}</p>
+        <p style={{ fontStyle: 'italic', color: 'rgba(255,255,255,0.7)', marginBottom: '25px', textAlign: 'center', fontSize: '0.95rem' }}>
+          Publicado por <strong style={{ color: 'var(--orange)' }}>Marcos Lobo</strong> e editado por <strong style={{ color: 'var(--orange)' }}>Felipe Caminha</strong> em {post.date}
+        </p>
       </PostHeader>
       <PostBody dangerouslySetInnerHTML={{ __html: post.content }} />
     </PostContainer>

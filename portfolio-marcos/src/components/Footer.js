@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { FaTwitter } from 'react-icons/fa';
+import { FaTwitter, FaInstagram } from 'react-icons/fa';
 
 const FooterContainer = styled.footer`
   background: var(--dark-grey);
@@ -46,14 +46,26 @@ function Footer() {
   const currentYear = new Date().getFullYear();
   return (
     <FooterContainer>
-      <ContactInfo>
-        <p>Contato: +55 11 95204-0515</p>
-        <p>E-mail: marcoslobofonseca@gmail.com</p>
-      </ContactInfo>
+      <div style={{ display: 'flex', justifyContent: 'center', gap: '40px', flexWrap: 'wrap', marginBottom: '20px' }}>
+        <ContactInfo style={{ marginBottom: 0 }}>
+          <h4 style={{ marginBottom: '10px', color: 'var(--orange)', fontSize: '1.1rem' }}>Marcos Lobo</h4>
+          <p>Telefone: +55 11 95204-0515</p>
+          <p>E-mail: marcoslobofonseca@gmail.com</p>
+        </ContactInfo>
+        
+        <ContactInfo style={{ marginBottom: 0 }}>
+          <h4 style={{ marginBottom: '10px', color: 'var(--orange)', fontSize: '1.1rem' }}>Felipe Caminha</h4>
+          <p>Telefone: (81) 99104-5475</p>
+          <p>E-mail: caminha2103@gmail.com</p>
+        </ContactInfo>
+      </div>
 
       <SocialLinks>
         <a href="https://x.com/improvcartola" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter) dos Improváveis">
           <FaTwitter />
+        </a>
+        <a href="https://instagram.com/fcaminha_" target="_blank" rel="noopener noreferrer" aria-label="Instagram dos Improváveis">
+          <FaInstagram />
         </a>
       </SocialLinks>
 
