@@ -1,3 +1,5 @@
+import { flags } from '../flags.js';
+
 export const austriaPost = {
   slug: 'copa-2026-austria-analise',
   title: 'COPA 2026: ÁUSTRIA',
@@ -37,15 +39,15 @@ export const austriaPost = {
       </ul>
     </div>
 
-    <p>Em um grupo acessível conseguiram a classificação direta para a competição... seu principal destaque foi uma incrível goleada de 10-0 pra cima da seleção de San Marino! <img src="https://flagcdn.com/w20/sm.png" alt="🇸🇲" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;"></p>
+    <p>Em um grupo acessível conseguiram a classificação direta para a competição... seu principal destaque foi uma incrível goleada de 10-0 pra cima da seleção de San Marino! ${flags.sanMarino}</p>
 
-    <h2 style="margin-top: 40px; color: #ffd700; border-bottom: 2px solid #ffd700; padding-bottom: 8px;">⭐ PRINCIPAIS ESTRELAS <img src="https://flagcdn.com/w20/at.png" alt="🇦🇹" style="vertical-align: middle; height: 20px; margin-bottom: 3px; border-radius: 2px;"></h2>
+    <h2 style="margin-top: 40px; color: #ffd700; border-bottom: 2px solid #ffd700; padding-bottom: 8px;">⭐ PRINCIPAIS ESTRELAS ${flags.austria}</h2>
     <p>Abaixo, detalhamos os principais nomes da seleção e também atletas promissores que podem surpreender na competição. ✍🏻</p>
 
     <!-- POSCH -->
     <div style="margin: 35px 0; border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 20px; background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
       <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4rem; border-left: 4px solid #ffd700; padding-left: 10px; display: flex; align-items: center; gap: 8px;">
-        POSCH <img src="https://flagcdn.com/w20/at.png" alt="🇦🇹" style="vertical-align: middle; height: 16px; border-radius: 2px;">
+        POSCH ${flags.austria}
       </h3>
       <p align="center">
         <img src="/copa2026/austria/jogadores/posch.jpg" alt="Posch" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
@@ -61,7 +63,7 @@ export const austriaPost = {
     <!-- SABITZER -->
     <div style="margin: 35px 0; border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 20px; background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
       <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4rem; border-left: 4px solid #ffd700; padding-left: 10px; display: flex; align-items: center; gap: 8px;">
-        SABITZER <img src="https://flagcdn.com/w20/at.png" alt="🇦🇹" style="vertical-align: middle; height: 16px; border-radius: 2px;">
+        SABITZER ${flags.austria}
       </h3>
       <p align="center">
         <img src="/copa2026/austria/jogadores/sabitzer.jpg" alt="Sabitzer" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
@@ -78,7 +80,7 @@ export const austriaPost = {
     <!-- ARNAUTOVIC -->
     <div style="margin: 35px 0; border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 20px; background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
       <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4rem; border-left: 4px solid #ffd700; padding-left: 10px; display: flex; align-items: center; gap: 8px;">
-        ARNAUTOVIC <img src="https://flagcdn.com/w20/at.png" alt="🇦🇹" style="vertical-align: middle; height: 16px; border-radius: 2px;">
+        ARNAUTOVIC ${flags.austria}
       </h3>
       <p align="center">
         <img src="/copa2026/austria/jogadores/arnautovic.jpg" alt="Arnautovic" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
@@ -96,7 +98,7 @@ export const austriaPost = {
     <!-- PAUL WANNER -->
     <div style="margin: 35px 0; border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 20px; background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
       <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4rem; border-left: 4px solid #ffd700; padding-left: 10px; display: flex; align-items: center; gap: 8px;">
-        PAUL WANNER <img src="https://flagcdn.com/w20/at.png" alt="🇦🇹" style="vertical-align: middle; height: 16px; border-radius: 2px;">
+        PAUL WANNER ${flags.austria}
       </h3>
       <p align="center">
         <img src="/copa2026/austria/jogadores/wanner.jpg" alt="Paul Wanner" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
@@ -111,7 +113,7 @@ export const austriaPost = {
     </div>
 
     <p style="margin-top: 30px; font-weight: 500; font-size: 1.15rem; line-height: 1.8;">
-      Assim como falei anteriormente sobre enfrentar o elo mais fraco do grupo, o mesmo acontece com Áustria <img src="https://flagcdn.com/w20/at.png" alt="🇦🇹" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;"> que tem pela frente a seleção da Jordânia <img src="https://flagcdn.com/w20/jo.png" alt="🇯🇴" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;"> em grupo que conta ainda com  Argentina <img src="https://flagcdn.com/w20/ar.png" alt="🇦🇷" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;"> e Argélia <img src="https://flagcdn.com/w20/dz.png" alt="🇩🇿" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">! Somar gols, saldo e pontos é fundamental em busca de uma vaga na próxima fase. 🔜
+      Assim como falei anteriormente sobre enfrentar o elo mais fraco do grupo, o mesmo acontece com Áustria ${flags.austria} que tem pela frente a seleção da Jordânia ${flags.jordania} em grupo que conta ainda com  Argentina ${flags.argentina} e Argélia ${flags.argelia}! Somar gols, saldo e pontos é fundamental em busca de uma vaga na próxima fase. 🔜
     </p>
   `
 };
