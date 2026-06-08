@@ -12,7 +12,7 @@ export const austriaPost = {
   content: `
 
     <p align="center">
-        <img src="/copa2026/austria/austria.jpg" alt="Austria" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/austria/austria.jpg" alt="Austria" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
     <p>A seleção europeia chega ao mundial de 2026 nos holofotes como sensação após 6 edições de ausência, uma geração que vem dando bons frutos.</p>
     <p>Eles fizeram uma campanha sólida nas eliminatórias europeias e se sagraram líderes de seu grupo com 19 pontos de 24 possíveis. ☑️</p>
@@ -50,7 +50,7 @@ export const austriaPost = {
         POSCH ${flags.austria}
       </h3>
       <p align="center">
-        <img src="/copa2026/austria/jogadores/posch.jpg" alt="Posch" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/austria/jogadores/posch.jpg" alt="Posch" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>Acredito que o defensor pode ser uma grata surpresa na estreia, ele atua como LAT mas já foi utilizado em linhas de 3 como ZAG. Destaco sua capacidade de desenvolver jogadas e suas criações... </p>
       <p>Atuou por 7 partidas nas eliminatórias sendo titular em 4 delas, garantiu  2⚽ e 2🅰️. Muito se fala do seu companheiro, Laimer... mas olharia com muita atenção para ele caso surja como titular.</p>
@@ -66,7 +66,7 @@ export const austriaPost = {
         SABITZER ${flags.austria}
       </h3>
       <p align="center">
-        <img src="/copa2026/austria/jogadores/sabitzer.jpg" alt="Sabitzer" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/austria/jogadores/sabitzer.jpg" alt="Sabitzer" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>O meia é referência do elenco e peça fundamental no esquema de Ralf Rangnick, responsável pela braçadeira de capitão e por algumas bolas paradas.</p>
       <p>Pelo Borussia Dortmund na temporada foi titular em 21 jogos e contou com 1⚽ e 2🅰️. </p>
@@ -83,7 +83,7 @@ export const austriaPost = {
         ARNAUTOVIC ${flags.austria}
       </h3>
       <p align="center">
-        <img src="/copa2026/austria/jogadores/arnautovic.jpg" alt="Arnautovic" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/austria/jogadores/arnautovic.jpg" alt="Arnautovic" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>O homem gol da seleção chega como forte candidato a mito do time, soma experiência em ligas de primeiro escalão no futebol europeu com refino técnico nas decisões.</p>
       <p>Na temporada atuou por 14 jogos como titular no Estrela Vermelha onde fechou com 7⚽ e 8🅰️.</p>
@@ -101,7 +101,7 @@ export const austriaPost = {
         PAUL WANNER ${flags.austria}
       </h3>
       <p align="center">
-        <img src="/copa2026/austria/jogadores/wanner.jpg" alt="Paul Wanner" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/austria/jogadores/wanner.jpg" alt="Paul Wanner" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>A joia de 20 anos chega para o mundial repleta de expectativas. Filho de pai alemão, mas com mãe austríaca, decidiu defender as cores da sua terra natal.</p>
       <p>Chegou ao PSV após ser negociado junto ao Bayern de Munique, somou 19 jogos como titular contando com 3⚽ e 3🅰️!</p>

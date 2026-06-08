@@ -12,7 +12,7 @@ export const escociaPost = {
   content: `
 
     <p align="center">
-        <img src="/copa2026/escocia/escocia.jpg" alt="Escocia" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/escocia/escocia.jpg" alt="Escocia" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
     <p>O Tartan Army assim como as seleções já analisadas chegam ao mundial após 28 anos de ausência, um relato de certa forma interessante é que na sua última participação em Copas do Mundo em 1998 também esteve no grupo do Brasil assim como em 2026.</p>
     <p>Em um grupo nas eliminatórias com as seleções da Dinamarca ${flags.dinamarca} e Grécia ${flags.grecia} teve uma campanha sólida e a primeira colocação garantida. ☑️</p>
@@ -49,7 +49,7 @@ export const escociaPost = {
         ROBERTSON ${flags.escocia}
       </h3>
       <p align="center">
-        <img src="/copa2026/escocia/jogadores/robertson.jpg" alt="Robertson" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/escocia/jogadores/robertson.jpg" alt="Robertson" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>O veterano lateral-esquerdo chega para sua primeira copa do mundo após carreira brilhante no Liverpool, ele é o capitão da equipe.</p>
       <p>De saída do time inglês somou apenas 11 partidas como titular e contou com 1⚽, nas eliminatórias atuou em todas as 6 partidas e fechou com 2🅰️. Suas médias defensivas são válidas, somou 1.2 desarmes🛡️ e 1.0 interceptações🛡️.</p>
@@ -65,7 +65,7 @@ export const escociaPost = {
         SCOTT MCTOMINAY ${flags.escocia}
       </h3>
       <p align="center">
-        <img src="/copa2026/escocia/jogadores/mctominay.jpg" alt="Mctominay" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/escocia/jogadores/mctominay.jpg" alt="Mctominay" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>A grande estrela e principal peça da seleção chega em seu auge técnico após bela temporada no futebol italiano. </p>
       <p>Nas eliminatórias, foi titular em todas as 8 partidas fechando com 3⚽ e 3🅰️! </p>
@@ -82,7 +82,7 @@ export const escociaPost = {
         CHE ADAMS ${flags.escocia}
       </h3>
       <p align="center">
-        <img src="/copa2026/escocia/jogadores/cheadams.jpg" alt="Che Adams" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/escocia/jogadores/cheadams.jpg" alt="Che Adams" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>O centroavante que assim como seu companheiro atua no futebol italiano vive fase artilheira.</p>
       <p>O camisa 10 somou no ano pela Torino 22 jogos como titular com 8⚽ e 2🅰️, já pela seleção nas eliminatórias titular em 5 das 6 partidas garantiu 2⚽. Pode surpreender!</p>
@@ -98,7 +98,7 @@ export const escociaPost = {
         SHANKLAND ${flags.escocia}
       </h3>
       <p align="center">
-        <img src="/copa2026/escocia/jogadores/shankland.jpg" alt="Paul Wanner" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/escocia/jogadores/shankland.jpg" alt="Paul Wanner" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>O centroavante de 30 anos chega como sensação na copa por sua seleção após temporada mágica no futebol de seu país.</p>
       <p>Pelo Hearts, time que lutou até a última rodada pelo título escocês o camisa 20 somou 32 jogos com incríveis 19⚽ e 4🅰️, nas eliminatórias participou apenas de 2 partidas somando 17' minutos em média mas garantiu 1⚽.</p>

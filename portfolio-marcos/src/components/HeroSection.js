@@ -38,12 +38,10 @@ function HeroSection() {
   return (
     <HeroContainer>
       <Title>A Essência do Jogo em Análise</Title>
-    <Subtitle>
- <Subtitle>
-  Olá, eu sou Marcos Lobo. Analista de futebol apaixonado por traduzir o que acontece em campo em análises táticas e de desempenho.
-  As ideias deste blog nascem da observação prática do jogo, uma abordagem que aprimorei como analista principal no projeto <strong>Improváveis do Cartola</strong>.
-</Subtitle>
-    </Subtitle>
+      <Subtitle>
+        Olá, eu sou Marcos Lobo. Analista de futebol apaixonado por traduzir o que acontece em campo em análises táticas e de desempenho.
+        As ideias deste blog nascem da observação prática do jogo, uma abordagem que aprimorei como analista principal no projeto <strong>Improváveis do Cartola</strong>.
+      </Subtitle>
     </HeroContainer>
   );
 }

@@ -1,6 +1,6 @@
-import React from 'react';
 import { useParams } from 'react-router-dom';
 import styled from 'styled-components';
+import { Helmet } from 'react-helmet-async';
 import { posts } from '../blog-data/posts';
 
 const PostContainer = styled.article`
@@ -84,11 +84,16 @@ function PostPage() {
 
   return (
     <PostContainer>
+      <Helmet>
+        <title>{post.title} - Marcos Lobo</title>
+        <meta name="description" content={post.subtitle || `Leia a análise de ${post.title} por Marcos Lobo.`} />
+      </Helmet>
       <PostHeader>
         <h1>
           {post.title}
           {post.flagCode && (
             <img 
+              loading="lazy"
               src={`https://flagcdn.com/w40/${post.flagCode}.png`} 
               alt="Bandeira" 
               style={{ 

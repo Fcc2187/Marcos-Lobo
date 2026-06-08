@@ -12,7 +12,7 @@ export const noruegaPost = {
   content: `
 
     <p align="center">
-        <img src="/copa2026/noruega/noruega.jpg" alt="Noruega" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/noruega/noruega.jpg" alt="Noruega" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
     <p>A seleção europeia comandada por sua estrela Haaland, chega como sensação na Copa do Mundo após 28 anos fora dos mundiais. 🔙</p>
     <p>Os "Løvene", como são conhecidos, chegam ao mundial tendo o melhor ataque das eliminatórias com incríveis 37 gols marcados em 8 jogos disputados, dando uma média impressionante na casa de 4,62 por jogo. ☄️</p>
@@ -51,7 +51,7 @@ export const noruegaPost = {
         RYERSON ${flags.noruega}
       </h3>
       <p align="center">
-        <img src="/copa2026/noruega/jogadores/ryerson.jpg" alt="Ryerson" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/noruega/jogadores/ryerson.jpg" alt="Ryerson" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>O lateral que atua no Borussia Dortmund chega para surpreender no mundial e se apresenta como uma peça muito atrativa para a 1ª rodada.</p>
       <p>Ele foi um dos principais assistentes da temporada europeia, acumulando 15 🅰️ para gols no Campeonato Alemão. Nas eliminatórias, em 8 jogos, somou 4 🅰️.</p>
@@ -68,7 +68,7 @@ export const noruegaPost = {
         ODEGAARD ${flags.noruega}
       </h3>
       <p align="center">
-        <img src="/copa2026/noruega/jogadores/odegaard.jpg" alt="Odegaard" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/noruega/jogadores/odegaard.jpg" alt="Odegaard" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>O camisa 10 e capitão da seleção é a referência técnica absoluta no meio-campo, ditando o ritmo de jogo do time.</p>
       <p>Apesar de uma temporada na qual sofreu com algumas lesões, chega com potencial total de ser a peça mais decisiva da criação.</p>
@@ -85,7 +85,7 @@ export const noruegaPost = {
         HAALAND ${flags.noruega}
       </h3>
       <p align="center">
-        <img src="/copa2026/noruega/jogadores/haaland.jpg" alt="Haaland" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/noruega/jogadores/haaland.jpg" alt="Haaland" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>A estrela mundial é a maior esperança da seleção. O artilheiro dispensa comentários sobre sua absurda capacidade técnica de decisão na área.</p>
       <p>Em uma temporada mágica individualmente, foi o artilheiro da Premier League com 27 ⚽ e 8 🅰️ em 34 jogos como titular.</p>
@@ -103,7 +103,7 @@ export const noruegaPost = {
         ANTONIO NUSA ${flags.noruega}
       </h3>
       <p align="center">
-        <img src="/copa2026/noruega/jogadores/nusa.jpg" alt="Antonio Nusa" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/copa2026/noruega/jogadores/nusa.jpg" alt="Antonio Nusa" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">
       </p>
       <p>O garoto de apenas 21 anos chega como um dos principais candidatos a revelar-se uma grande surpresa positiva em sua seleção.</p>
       <p>Atuando pelo Leipzig na Alemanha, somou 24 partidas anotando 4 ⚽ e distribuindo 3 🅰️. Ele se destaca como um ponta extremamente criativo, acumulando média de 1.2 passes decisivos e criando 9 grandes chances no período. 🧙🏻</p>

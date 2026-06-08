@@ -16,7 +16,7 @@ export const posts = [
       <p>A escola argentina (ATFA), a cada novo ciclo, vem formando grandes profissionais e se consolidando no mercado brasileiro e internacional. Por serem mais rígidos e testados em níveis mais rigorosos, eles vêm ganhando destaque.</p>
       
       <p align="center">
-        <img src="/treinadores-argentinos.png" alt="Treinadores Argentinos no Brasil" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/treinadores-argentinos.png" alt="Treinadores Argentinos no Brasil" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
       </p>
 
       <p>O estilo argentino ganhou força na América do Sul e na Europa; por ser um trabalho objetivo e direto, consegue elevar o nível profissional e vencer escolas arcaicas. Hoje, temos nomes como Diego Simeone, Lionel Scaloni e Martín Anselmi em evidência. E o que eles possuem em comum? Seriedade - do mais experiente ao mais novo.</p>
@@ -37,7 +37,7 @@ export const posts = [
     <p>Nós somos um dos maiores formadores e potenciais de atletas profissionais do mundo; porém, não sabemos fazer a utilização correta, pois muitos desses atletas não têm o perfil ou o status que os torcedores esperam.</p>
     <h2>O talento que o Brasil não quis esperar</h2>
     <p align="center">
-        <img src="/alisson-santos.jpg" alt="Jogador Alisson Santos do Sporting" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/alisson-santos.jpg" alt="Jogador Alisson Santos do Sporting" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
     </p>
     <p>Alisson Santos é mais um belo exemplo de como um olhar diferente e uma oportunidade podem te fazer diferente: da série C em agosto de 2024 para 2 gols na Champions League em outubro de 2025. O que eles viram que nós não vimos? Ele é só mais um caso dos milhares que poderia citar. </p>
     <p>Uma coisa eu tenho certeza: não temos paciência com o processo de integração desse tipo de jogador, pois os minutos que ele poderia ter ficam a cargo de jogadores renomados com baixo rendimento. Temos urgentemente que desassociar o jogador + rendimento = nome badalado. O futebol é feito de jogadores que passam por processos; estamos fazendo esse ciclo de forma invertida.</p>
@@ -58,7 +58,7 @@ export const posts = [
       <p>Do montante, 6,5 milhões foram investidos em seu CT de alta performance e cuidado científico com seus atletas e staff. O espaço conta com 4 campos oficiais, aparelhos de última geração, piscinas, apartamentos para concentração e até mesmo de uma cápsula de flutuação onde os atletas flutuam em uma água morna salina que tem como principais benefícios redução de estresse, alívio de dores e melhorias no sono e bem-estar.</p>
       <h2>A Força do Coletivo e a Gestão como Diferencial</h2>
       <p align="center">
-        <img src="/mirassol.jpg" alt="Estrutura e CT do Mirassol Futebol Clube" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/mirassol.jpg" alt="Estrutura e CT do Mirassol Futebol Clube" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
       </p>
       <p>O time vem fazendo uma campanha histórica na série mas algo me chama muito atenção: a quantidade de jogadores em final de contrato - são incríveis 15 jogadores com contratos até o final de 2025 entre vínculos definitivos e empréstimos. O veterano lateral-esquerdo Reinaldo é um caso deles, o camisa 6 soma 8 gols e 3 assistências e tem sido o principal destaque despontando até como o melhor da posição no campeonato, o seu contrato se encerra em 31/12/25.</p>
       <p>O técnico Rafael Guanaes tem parcela crucial no desempenho do time, o paulista da capital tem um jogo muito bem construído apartir do 4-2-3-1 de muita eficiência tática, jogo aproximado e principalmente de DNA ofensivo, o time tem o 2⁰ melhor ataque da competição superando clubes como Palmeiras e Botafogo, figura também entre os times que mais criam grandes chances, sendo o 5⁰ no geral.</p>
@@ -77,7 +77,7 @@ export const posts = [
       <p>Enxergar o potencial de um jovem não é o desafio principal. O verdadeiro desafio está em preparar, lapidar e desenvolver esse potencial até que ele se transforme em um atleta de alto desempenho. Abel Ferreira soube conduzir esse processo com José López, o "Flaco".</p>
       <h2>O processo de adaptação de "Flaco" López</h2>
       <p align="center">
-      <img src="/flaco.png" alt="Imagem do jogador Flaco Lopez" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
+      <img loading="lazy" src="/flaco.png" alt="Imagem do jogador Flaco Lopez" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
       </p>
       </p>
       <p>O argentino chegou ao Brasil em 2022, cercado de expectativa pelas cifras investidas e pela carência do torcedor passional, por um “salvador”. Mas o processo não foi imediato.</p>
@@ -100,7 +100,7 @@ export const posts = [
       <p>Trazendo isso para os protagonistas, os jogadores, temos uma média de 1 a 2 minutos de posse por atleta. Ou seja, mais de 88,33% do tempo em campo é de jogo sem bola.</p>
       <h2>Christian: O exemplo da eficiência tática</h2>
       <p align="center">
-        <img src="/christian.png" alt="Imagem do jogador Christian" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
+        <img loading="lazy" src="/christian.png" alt="Imagem do jogador Christian" style="width: 100%; max-width: 550px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
       </p>
       <p>Falando em 88, Christian, do Cruzeiro, comandado por Leonardo Jardim, representa bem essa nova maneira de enxergar o jogo. O jovem polivalente e disciplinado taticamente, é uma peça vital no esquema e no sucesso do time em 2025.</p>
       <p>Um extremo com números defensivos acima da média chama atenção. Não é o habitual, nem o esperado por torcedores ou analistas. Mas acostumem-se: o futebol mudou.</p>
