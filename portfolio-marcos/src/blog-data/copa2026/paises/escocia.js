@@ -1,15 +1,16 @@
-import { flags } from '../flags.js';
+import { flags } from '../../flags.js';
 
 export const escociaPost = {
-  slug: 'copa-2026-escocia-analise',
-  title: 'COPA 2026: ESCÓCIA',
-  flagCode: 'gb-sct',
-  subtitle: 'Análise aprofundada da seleção escocesa para a Copa do Mundo de 2026',
-  category: 'Copa do Mundo 2026',
-  date: '08 de junho de 2026',
-  author: 'Marcos Lobo',
-  isWorldCup: true,
-  content: `
+    slug: 'copa-2026-escocia-analise',
+    title: 'COPA 2026: ESCÓCIA',
+    flagCode: 'gb-sct',
+    subtitle: 'A reinvenção e a promessa de uma geração de ouro 🏆',
+    category: 'Copa do Mundo 2026',
+    date: '08 de junho de 2026',
+    author: 'Marcos Lobo',
+    isWorldCup: true,
+    coverImage: '/copa2026/escocia/escocia.jpg',
+    content: `
 
     <p align="center">
         <img loading="lazy" src="/copa2026/escocia/escocia.jpg" alt="Escocia" style="width: 100%; max-width: 550px; height: auto; margin: 15px auto; display: block; border-radius: 8px;">

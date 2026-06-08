@@ -1,4 +1,4 @@
-import { flags } from '../flags.js';
+import { flags } from '../../flags.js';
 
 export const austriaPost = {
   slug: 'copa-2026-austria-analise',
@@ -9,6 +9,7 @@ export const austriaPost = {
   date: '5 de junho de 2026',
   author: 'Marcos Lobo',
   isWorldCup: true,
+  coverImage: '/copa2026/austria/austria.jpg',
   content: `
 
     <p align="center">

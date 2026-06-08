@@ -1,14 +1,15 @@
-import { flags } from '../flags.js';
+import { flags } from '../../flags.js';
 
 export const noruegaPost = {
   slug: 'copa-2026-noruega-analise',
   title: 'COPA 2026: NORUEGA',
   flagCode: 'no',
-  subtitle: 'Análise aprofundada da seleção norueguesa para a Copa do Mundo de 2026',
-  category: 'Copa do Mundo 2026',
+  subtitle: 'Os vikings buscam seu espaço na elite do futebol 🏆',
+  category: 'Copa 2026',
   date: '4 de Junho de 2026',
   author: 'Marcos Lobo',
   isWorldCup: true,
+  coverImage: '/copa2026/noruega/noruega.jpg',
   content: `
 
     <p align="center">

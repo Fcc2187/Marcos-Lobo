@@ -1,8 +1,9 @@
-// src/blog-data/posts.js
 import { copaPosts } from './copa2026';
+import { brasileiraoPosts } from './brasileirao2026';
 
 export const posts = [
   ...copaPosts,
+  ...brasileiraoPosts,
 
   {
     slug: 'a-argentinizacao-no-brasil',
@@ -11,6 +12,7 @@ export const posts = [
     category: 'Análise de Mercado',
     date: '9 de Janeiro de 2026',
     author: 'Marcos Lobo',
+    coverImage: '/treinadores-argentinos.png',
     content: `
       <p>Após anos de nomes portugueses reinando em solo nacional, vivemos agora uma era onde 25% de nossos treinadores na Série A são "hermanos".</p>
       <p>A escola argentina (ATFA), a cada novo ciclo, vem formando grandes profissionais e se consolidando no mercado brasileiro e internacional. Por serem mais rígidos e testados em níveis mais rigorosos, eles vêm ganhando destaque.</p>
@@ -32,6 +34,7 @@ export const posts = [
     category: 'Desempenho de atleta',
     date: '24 de outubro de 2025',
     author: 'Marcos Lobo',
+    coverImage: '/alisson-santos.jpg',
     content: `
     <p>Muitos dos clubes brasileiros estão acostumados a colocar para debaixo do tapete seus erros e escolhas ruins ao "calar" seus torcedores de redes sociais com escolhas de jogadores renomados, visando apenas ganho midiatico.</p>
     <p>Nós somos um dos maiores formadores e potenciais de atletas profissionais do mundo; porém, não sabemos fazer a utilização correta, pois muitos desses atletas não têm o perfil ou o status que os torcedores esperam.</p>
@@ -51,6 +54,7 @@ export const posts = [
     category: 'Análise de Clubes',
     date: '26 de Setembro de 2025',
     author: 'Marcos Lobo',
+    coverImage: '/mirassol.jpg',
     content: `  
       <p>Sim, eu sei que o time do interior paulista era cotado para segurar a laterna do campeonato brasileiro, justamente em seu ano de acesso. Seus inúmeros jogadores que não serviam em outros clubes e por sua falta de tradição o fizeram menosprezado, mas o futebol não é uma matemática exata.</p>
       <p>O Leão da Alta Araraquarense completa seus 100 anos de história em 2025 e como presente mais que especial ao seu apaixonado torcedor está jogando a elite do campeonato nacional, e muito além disso, superando expectativas.</p>
@@ -72,6 +76,7 @@ export const posts = [
     category: 'Desempenho de atleta',
     date: '19 de Setembro de 2025',
     author: 'Marcos Lobo',
+    coverImage: '/flaco.png',
     content: `
       <p>No mundo esportivo - especialmente no futebol - a maturação de um jogador exige tempo e paciência. Somos um país rico em jovens promessas latinas, que muitas vezes migram cedo, carregando em si responsabilidades exageradas.</p>
       <p>Enxergar o potencial de um jovem não é o desafio principal. O verdadeiro desafio está em preparar, lapidar e desenvolver esse potencial até que ele se transforme em um atleta de alto desempenho. Abel Ferreira soube conduzir esse processo com José López, o "Flaco".</p>
@@ -94,6 +99,7 @@ export const posts = [
     category: 'Análise Tática',
     date: '19 de Setembro de 2025',
     author: 'Marcos Lobo',
+    coverImage: '/christian.png',
     content: `
       <p>No futebol moderno, não há mais espaço apenas para jogadores com refino técnico. O jogo sem bola se tornou essencial em equipes de alto rendimento.</p>
       <p>Um estudo recente publicado pelo European Journal of Sport Science indica que cada time tem, em média, 107 posses de bola por jogo, com duração média de 16 segundos cada, totalizando cerca de 29 minutos de posse por time em uma partida de 90 minutos.</p>
