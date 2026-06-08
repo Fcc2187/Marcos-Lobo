@@ -4,7 +4,7 @@ export const austriaPost = {
   slug: 'copa-2026-austria-analise',
   title: 'COPA 2026: ÁUSTRIA',
   flagCode: 'at',
-  subtitle: 'Análise aprofundada da seleção austríaca para a Copa do Mundo de 2026',
+  subtitle: '"O retorno triunfal e a promessa do talento austríaco 🏆',
   category: 'Copa do Mundo 2026',
   date: '5 de junho de 2026',
   author: 'Marcos Lobo',
