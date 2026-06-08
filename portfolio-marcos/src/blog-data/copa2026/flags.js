@@ -55,6 +55,8 @@ export const flags = {
   suecia: '<img src="https://flagcdn.com/w20/se.png" alt="🇸🇪" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
   suica: '<img src="https://flagcdn.com/w20/ch.png" alt="🇨🇭" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
   turquia: '<img src="https://flagcdn.com/w20/tr.png" alt="🇹🇷" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
+  dinamarca: '<img src="https://flagcdn.com/w20/dk.png" alt="🇩🇰" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
+  grecia: '<img src="https://flagcdn.com/w20/gr.png" alt="🇬🇷" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
 
   // Concacaf (Américas do Norte/Central e Caribe - excluindo anfitriões já listados)
   curacau: '<img src="https://flagcdn.com/w20/cw.png" alt="🇨🇼" style="vertical-align: middle; height: 14px; margin-bottom: 2px; border-radius: 2px;">',
